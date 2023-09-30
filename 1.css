@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(233, 233, 129);
+    text-align: center;
+}
+h1,h2{
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+   border: 10px solid palevioletred;
+}
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:cornflowerblue;
+    font-size:30px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color: paleturquoise;
+}
